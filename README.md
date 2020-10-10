@@ -59,7 +59,9 @@ Telegram: @buzz0n
 ### Проекты
 
 Java сайт по продаже билетов (spring + postgresql) https://github.com/buzzon/compass
+
 C# ( +мои модели) Стратегия работа в команде https://github.com/buzzon/colonization-of-the-universe
+
 C# Завершено, программа для автосохранения данных из буфера обмена https://github.com/buzzon/Clipboard
 
 ### Дополнительная информация

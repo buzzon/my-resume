@@ -1,5 +1,5 @@
 
-![Фото](https://github.com/buzzon/my-resume/blob/main/photo_2020-10-10_19-19-39.jpg | width=20)
+<img src="https://github.com/buzzon/my-resume/blob/main/photo_2020-10-10_19-19-39.jpg" alt="Фото" width="200px" height="200px">
 ## Клещёв Алексей Сергеевич
 
 Github: https://github.com/buzzon?tab=repositories

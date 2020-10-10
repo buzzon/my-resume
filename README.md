@@ -2,7 +2,7 @@
 
 ## Клещёв Алексей Сергеевич
 
-Github: https://github.com/buzzon?tab=repositories 
+Github: https://github.com/buzzon?tab=repositories
 Телефон: +79995632951 
 Discord: buzz0n#4460 
 Telegram: @buzz0n

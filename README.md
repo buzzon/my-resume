@@ -40,17 +40,15 @@ Telegram: @buzz0n
 
 ### Компьютерные навыки: 
 
-- С#
-
-  - Desctop: [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/getting-started/walkthrough-my-first-wpf-desktop-application?view=netframeworkdesktop-4.8)
-
-  - Desctop: [Windows Forms](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2019)
-- Java
-  - WEB: [spring](https://spring.io/)
-- Python
+- Python (Средний уровень, акцентируемый язык)
   - WEB: [Django](https://www.djangoproject.com/)
   - WEB: [Django REST Framework](https://www.django-rest-framework.org/)
-- Blender
+- С# (Средний уровень)
+  - Desctop: [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/getting-started/walkthrough-my-first-wpf-desktop-application?view=netframeworkdesktop-4.8)
+  - Desctop: [Windows Forms](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2019)
+- Java (Средний уровень)
+  - WEB: [spring](https://spring.io/)
+- Blender (Средний уровень, больше как хобби)
   - Modeling
   - UV Mapping
   - Texturing 

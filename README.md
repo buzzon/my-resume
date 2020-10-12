@@ -40,7 +40,7 @@ Telegram: @buzz0n
 
 ### Компьютерные навыки: 
 
-- Python (Средний уровень, акцентируемый язык)
+- Python (Средний уровень, акцентированный язык)
   - WEB: [Django](https://www.djangoproject.com/)
   - WEB: [Django REST Framework](https://www.django-rest-framework.org/)
 - С# (Средний уровень)

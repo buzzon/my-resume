@@ -81,7 +81,7 @@ Java сайт по продаже билетов (spring + postgresql) https://g
 
 C# ( +мои модели) Стратегия работа в команде https://github.com/buzzon/colonization-of-the-universe
 
-C# Завершено, программа для автосохранения данных из буфера обмена https://github.com/buzzon/Clipboard
+C# (Для себя) Завершено, программа для автосохранения данных из буфера обмена https://github.com/buzzon/Clipboard
 
 ### Дополнительная информация
 

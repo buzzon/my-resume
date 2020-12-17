@@ -3,8 +3,6 @@
 
 ## Клещёв Алексей Сергеевич
 
-Github: https://github.com/buzzon?tab=repositories
-
 Телефон: +79995632951
 
 Discord: buzz0n#4460
@@ -82,6 +80,8 @@ Java | Cайт по продаже билетов (spring + postgresql) https://
 C#,3d моделирование | Игра стратегия, работа в команде https://github.com/buzzon/colonization-of-the-universe
 
 C# (Для себя) [Завершено] | программа для автосохранения данных из буфера обмена https://github.com/buzzon/Clipboard
+
+И другие Github: https://github.com/buzzon?tab=repositories
 
 ### Дополнительная информация
 
